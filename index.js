@@ -1,2 +1,2 @@
 console.log("Hello WOrld")
-My Name is Al Farabi - Sajon
+My Name is Al 
