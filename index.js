@@ -1,2 +1,2 @@
-console.log("Hello WOrld")
-My Name is Al 
+My Name is Al Farabi
+New line added
